@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/815a6764-de82-4c0a-9a71-45b13a977494)This repo contains the flask application PokemonBattleSimulator which takes two pokemon names as input from user and find the winner name based on it's different parameters from
-kaggle dataset pokemon.csv. As of now this project is not deployed anywhere so we need to run the application in our local machine. 
+This repo contains the flask application PokemonBattleSimulator which takes two pokemon names as input from user and find the winner name based on it's different parameters from kaggle dataset pokemon.csv. As of now this project is not deployed anywhere so we need to run the application in our local machine. 
 
 There are 4 apis created as part of this project. 
 

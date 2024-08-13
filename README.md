@@ -1,5 +1,11 @@
 This repo contains the flask application PokemonBattleSimulator which takes two pokemon names as input from user and find the winner name based on it's different parameters from kaggle dataset pokemon.csv. As of now this project is not deployed anywhere so we need to run the application in our local machine. 
 
+In order to run the application, in terminal go to the src folder and run the command -> py flask_api.py
+![image](https://github.com/user-attachments/assets/6d6f549f-ff8f-42ef-afcc-f051737a0839)
+
+
+Now hit the below apis for their respective functions.
+
 There are 4 apis created as part of this project. 
 
 First : http://localhost:5000/api/pokemon/pagination is a pagination api which provides the details of all the pokemons.
